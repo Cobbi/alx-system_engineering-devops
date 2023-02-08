@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x /tmp/my_first_directory/
+/tmp/my_first_directory/
